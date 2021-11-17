@@ -70,5 +70,5 @@ nombreplanetas.map((planetas,index)=>{
 let resultadomap = nombreplanetas.map((planetas,index)=>{
     return(
         console.log(`El planeta ${planetas} tiene tamaño de :${tamaño[index]}`)
-})
 
+    })
